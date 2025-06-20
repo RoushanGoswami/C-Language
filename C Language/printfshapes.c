@@ -19,10 +19,6 @@ void main ()
   
   printf("|          |\n");
   printf(" - - - - - ");
-  printf("\n"); 
-  
- //3.QUESTION   
-  
-  printf("  - - -  \n");
+  printf("\n");
   
  }  
