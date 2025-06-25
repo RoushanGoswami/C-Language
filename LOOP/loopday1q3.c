@@ -12,7 +12,6 @@ while(i<=n)// while loop condition
 
 printf("%d\n",i);//print the required output
 i++ ;
-s
 
 }
 
