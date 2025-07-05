@@ -1,19 +1,16 @@
-#include <stdio.h>
-void main()
-{
-    // 1
-    // 1 2
-    // 1 2 3
-    // 1 2 3 4
-    // 1 2 3 4 5
-    int i, j;
+#include<stdio.h>
 
-    for (i = 1; i <= 5; i++) // 2<=5 ,true
+int main()
+{
+    int i, j ; //declaration of two variables i and j
+
+    for (i = 1 ; i <= 5 ; i ++)//for loop (outer loop ) condition 
     {
-        for (j = 1; j <= i; j++) // j=i --> 1<=1--> true
+        for (j=1; j <= i; j++)//for loop (inner loop ) condition
         {
-            printf("%d ", j);
+            printf("%d ",j);//print j 
         }
-        printf("\n");
+        printf("\n");// new line 
     }
+
 }
