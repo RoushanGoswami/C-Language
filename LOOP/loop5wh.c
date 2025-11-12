@@ -3,6 +3,7 @@
 
 void main ()
 
+
 {
 	//wap to print odd no. from 1 to N using while loop
 	
@@ -18,4 +19,5 @@ void main ()
     	num++;//increment
 	}	
 }
+
 
