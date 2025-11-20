@@ -2,6 +2,7 @@
 
 void main()
 
+
 {
     // wap to find sum of first and last digit of a number.
     int num;    // declare a num variiable
@@ -21,3 +22,4 @@ void main()
     printf("sum of first and last digits is \n"); // print out
     printf("%d + %d = %d", fd, ld, fd + ld);      // final output
 }
+
