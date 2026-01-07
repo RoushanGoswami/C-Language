@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 
 int main()
@@ -14,4 +15,5 @@ int main()
     b = a - b; // b =10
     a = a - b;
     printf("\nAfter Swaping \n a is %d , b is %d", a, b);
+
 }
