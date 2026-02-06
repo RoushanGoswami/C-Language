@@ -14,4 +14,5 @@ void main()
         printf("Enter arr[%d] = ", i);
         scanf("%d ", &arr[i]);
     }
+
 }
